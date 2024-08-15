@@ -7,7 +7,7 @@ This repository contains a report that analyzes sales data from Blinkit, an Indi
 
 
 Main Points
-Total Sales: $1.20 million
+Total Sales: $1.20 million.<br>
 Average Sales per Store: $141
 Total Items Sold: 8,523
 Average Customer Rating: 3.9 stars
